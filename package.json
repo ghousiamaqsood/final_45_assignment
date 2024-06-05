@@ -1,20 +1,19 @@
 {
-  "name": "class2",
+  "name": "uper-lower-title-case-3",
   "version": "1.0.0",
-  "main": "index.js",
-  "type":"module",
-  "bin": "index.js",
+  "main": "q-no-03.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ghousiamaqsood",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [],
   "description": "",
   "dependencies": {
     "inquirer": "^9.2.23"
   },
   "devDependencies": {
+    "@types/inquirer": "^9.0.7",
     "@types/node": "^20.14.1"
   }
 }
