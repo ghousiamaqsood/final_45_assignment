@@ -1,17 +1,12 @@
 {
-  "name": "common-animales-name",
+  "name": "t-shirt-message-i-love-ts37",
   "version": "1.0.0",
-  "main": "q-no-35.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ghousiamaqsood",
-  "license": "MIT",
-  "description": "",
-  "dependencies": {
-    "inquirer": "^9.2.23"
-  },
-  "devDependencies": {
-    "@types/node": "^20.14.1"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
