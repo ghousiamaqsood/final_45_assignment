@@ -1,7 +1,7 @@
 {
-  "name": "q-no-27",
+  "name": "q-no-29",
   "version": "1.0.0",
-  "main": "q_no_27.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,9 @@
   "description": "",
   "dependencies": {
     "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
   }
 }
