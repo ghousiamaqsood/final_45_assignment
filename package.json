@@ -1,7 +1,7 @@
 {
-  "name": "q_no_26",
+  "name": "q-no-27",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "q_no_27.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
